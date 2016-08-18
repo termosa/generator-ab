@@ -1,0 +1,15 @@
+{
+  "name": "generator-ab",
+  "version": "0.0.0",
+  "description": "AngularJS boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/termosa/generator-ab.git"
+  },
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termosa/generator-ab/issues"
+  },
+  "homepage": "https://github.com/termosa/generator-ab#readme"
+}
